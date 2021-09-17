@@ -1,2 +1,2 @@
 # project
-Bootstrap v4 theme
+Bootstrap v4.0 theme
